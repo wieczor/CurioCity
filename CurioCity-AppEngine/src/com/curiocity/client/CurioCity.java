@@ -20,6 +20,7 @@ import com.google.gwt.user.client.ui.RootPanel;
 /**
  * Entry point classes define <code>onModuleLoad()</code>.
  * Dodana linijka
+ * jeszcze jedna:)
  */
 public class CurioCity implements EntryPoint {
 

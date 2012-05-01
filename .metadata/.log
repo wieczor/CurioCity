@@ -2455,3 +2455,63 @@ java.lang.NullPointerException
 
 !ENTRY com.android.ide.eclipse.adt 4 0 2012-05-01 12:37:05.485
 !MESSAGE Failed to load properties file for project 'CurioCity-Android'
+
+!ENTRY com.google.appengine.eclipse.core 4 0 2012-05-01 13:07:06.794
+!MESSAGE Unable to update app: Error posting to URL: https://appengine.google.com/api/appversion/getresourcelimits?app_id=CurioCity&version=1&
+400 Bad Request
+
+Client Error (400)
+The request is invalid for an unspecified reason.
+
+
+See the deployment console for more details
+!STACK 0
+com.google.appengine.tools.admin.AdminException: Unable to update app: Error posting to URL: https://appengine.google.com/api/appversion/getresourcelimits?app_id=CurioCity&version=1&
+400 Bad Request
+
+Client Error (400)
+The request is invalid for an unspecified reason.
+
+	at com.google.appengine.tools.admin.AppAdminImpl.doUpdate(AppAdminImpl.java:333)
+	at com.google.appengine.tools.admin.AppAdminImpl.update(AppAdminImpl.java:52)
+	at com.google.appengine.eclipse.core.proxy.AppEngineBridgeImpl.deploy(AppEngineBridgeImpl.java:400)
+	at com.google.appengine.eclipse.core.deploy.DeployProjectJob.runInWorkspace(DeployProjectJob.java:148)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: com.google.appengine.tools.admin.HttpIoException: Error posting to URL: https://appengine.google.com/api/appversion/getresourcelimits?app_id=CurioCity&version=1&
+400 Bad Request
+
+Client Error (400)
+The request is invalid for an unspecified reason.
+
+	at com.google.appengine.tools.admin.AbstractServerConnection.send1(AbstractServerConnection.java:285)
+	at com.google.appengine.tools.admin.AbstractServerConnection.send(AbstractServerConnection.java:245)
+	at com.google.appengine.tools.admin.AbstractServerConnection.post(AbstractServerConnection.java:224)
+	at com.google.appengine.tools.admin.ResourceLimits.remoteRequest(ResourceLimits.java:160)
+	at com.google.appengine.tools.admin.ResourceLimits.request(ResourceLimits.java:127)
+	at com.google.appengine.tools.admin.AppAdminImpl.doUpdate(AppAdminImpl.java:323)
+	... 5 more
+
+!ENTRY com.google.appengine.eclipse.core 1 0 2012-05-01 13:10:19.402
+!MESSAGE CurioCity-AppEngine successfully deployed to Google App Engine
+
+!ENTRY com.google.gwt.eclipse.core 4 0 2012-05-01 13:10:19.421
+!MESSAGE Cannot get version of GWT SDK "\CurioCity-Android\lib", ensure it is configured properly
+!STACK 0
+java.lang.ClassNotFoundException: com.google.gwt.dev.About
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at com.google.gwt.eclipse.core.runtime.GWTRuntime.getVersion(GWTRuntime.java:508)
+	at com.google.gdt.eclipse.core.sdk.SdkUtils$MaxSdkVersionComputer.computeMaxSdkVersion(SdkUtils.java:46)
+	at com.google.gdt.eclipse.suite.ext.update.UpdateSiteURLGenerator.computeUpdateSiteURL(UpdateSiteURLGenerator.java:147)
+	at com.google.gdt.eclipse.suite.ext.update.UpdateSiteURLGenerator.generateGaeDeployURL(UpdateSiteURLGenerator.java:87)
+	at com.google.gdt.eclipse.suite.ext.update.PingManager.sendGaeDeployPing(PingManager.java:71)
+	at com.google.gdt.eclipse.suite.ext.update.GaeUsageTrackingDeploymentParticipant.deploySucceeded(GaeUsageTrackingDeploymentParticipant.java:38)
+	at com.google.gdt.eclipse.core.deploy.DeploymentParticipantManager.notifyAllParticipants(DeploymentParticipantManager.java:74)
+	at com.google.appengine.eclipse.core.deploy.DeployProjectJob.runInWorkspace(DeployProjectJob.java:206)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
