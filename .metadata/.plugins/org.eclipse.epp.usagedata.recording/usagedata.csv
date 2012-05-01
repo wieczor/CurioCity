@@ -1,0 +1,201 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.jem,2.0.402.v201106132000,"org.eclipse.jem",1335867703629
+started,bundle,org.eclipse.wst.common.frameworks.ui,1.2.0.v201004080500,"org.eclipse.wst.common.frameworks.ui",1335867703714
+started,bundle,org.eclipse.wst.xml.core,1.1.505.v201109271810,"org.eclipse.wst.xml.core",1335867703714
+started,bundle,org.eclipse.wst.validation,1.2.204.v201109220700,"org.eclipse.wst.validation",1335867703714
+started,bundle,org.eclipse.jst.j2ee,1.1.406.v201110130300,"org.eclipse.jst.j2ee",1335867703755
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.102.v201008182136,"org.eclipse.jst.common.project.facet.core",1335867704186
+started,bundle,org.eclipse.jst.ws.jaxrs.core,1.0.201.v201011231540,"org.eclipse.jst.ws.jaxrs.core",1335867704225
+started,bundle,com.google.gdt.eclipse.maven,2.5.2.v201203300216-rel-r36,"com.google.gdt.eclipse.maven",1335867704593
+started,bundle,org.eclipse.jdt.junit.core,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.junit.core",1335867705093
+started,bundle,org.eclipse.core.variables,3.2.400.v20100505,"org.eclipse.core.variables",1335867705180
+started,bundle,org.eclipse.wst.sse.core,1.1.506.v201110201853,"org.eclipse.wst.sse.core",1335867705302
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1335867705824
+started,bundle,com.google.gdt.eclipse.appengine.rpc,2.5.2.v201203300216-rel-r36,"com.google.gdt.eclipse.appengine.rpc",1335867706974
+error,log,,,"Internal Error",1335867707325
+started,bundle,org.eclipse.wst.html.core,1.1.406.v201109271810,"org.eclipse.wst.html.core",1335867707622
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335867708380
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335867709410
+error,log,,,"Failed to finish PrecompilerBuilder#startupOnInitialize()",1335867709432
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335867709435
+started,bundle,org.eclipse.jdt.apt.core,3.3.402.R36_v20110120-1000,"org.eclipse.jdt.apt.core",1335867709647
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.301.R36_v20100727-0110,"org.eclipse.jdt.apt.pluggable.core",1335867709659
+started,bundle,org.eclipse.wst.css.core,1.1.403.v201103021532,"org.eclipse.wst.css.core",1335867710337
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335867711662
+error,log,,,"Cannot get version of GWT SDK ""\\CurioCity-Android\\lib"", ensure it is configured properly",1335867711771
+error,log,,,"Cannot get version of GWT SDK ""\\CurioCity-Android\\lib"", ensure it is configured properly",1335867713105
+started,bundle,org.eclipse.jst.ws.annotations.core,1.0.0.v201004262257,"org.eclipse.jst.ws.annotations.core",1335867713372
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335867716703
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335867716706
+started,bundle,org.eclipse.jst.jee,1.0.303.v201103311600,"org.eclipse.jst.jee",1335867716781
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335867850462
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1335867850488
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335867853785
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335867853914
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335867853926
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868014666
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868019857
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868038783
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1335868038795
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868039775
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868055592
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868058855
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868085273
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1335868085293
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1335868094443
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1335868094487
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.views.showView",1335868094487
+started,bundle,org.eclipse.compare.core,3.5.101.R36x_v20100929-0800,"org.eclipse.compare.core",1335868098375
+started,bundle,org.eclipse.compare,3.5.101.R36x_v20100929-0800,"org.eclipse.compare",1335868098375
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.203.v201109140236,"org.eclipse.wst.ws.service.policy.ui",1335868100981
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.204.v201011011834,"org.eclipse.wst.ws.service.policy",1335868100995
+started,bundle,org.eclipse.wst.command.env,1.0.409.v201004211805,"org.eclipse.wst.command.env",1335868101060
+started,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1335868101061
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868103022
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868106809
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.properties",1335868106822
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.refresh",1335868109155
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868109454
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868110638
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.refresh",1335868113004
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868113279
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868114277
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868114307
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868114309
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868114312
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868114315
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868114319
+started,bundle,org.eclipse.jst.ws.jaxws.dom.integration,1.0.0.v201004171919,"org.eclipse.jst.ws.jaxws.dom.integration",1335868114515
+started,bundle,org.eclipse.jst.ws.jaxws.dom.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.jaxws.dom.ui",1335868114523
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868118151
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868139782
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868139785
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868139787
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868139799
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335868140789
+error,log,,,"Internal Error",1335868140883
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335868141048
+error,log,,,"Failed to finish PrecompilerBuilder#startupOnInitialize()",1335868141054
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335868141056
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335868141549
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335868145448
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335868145451
+error,log,,,"Internal Error",1335868150773
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868161419
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1335868161458
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868168592
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868193859
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868195362
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868201980
+executed,command,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.navigate.openResource",1335868201990
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868206687
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868212130
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.properties",1335868212140
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1335868219606
+started,bundle,org.eclipse.jdt.debug,3.6.1.v20100715_r361,"org.eclipse.jdt.debug",1335868220603
+started,bundle,org.eclipse.jdt.debug.ui,3.5.2.v20100928a_r362,"org.eclipse.jdt.debug.ui",1335868220876
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1335868221039
+started,bundle,org.eclipse.jdt.junit,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.junit",1335868221469
+started,bundle,org.eclipse.pde.launching,3.6.0.v20100601,"org.eclipse.pde.launching",1335868226060
+started,bundle,org.eclipse.ui.views.log,1.0.100.v20110210_r362,"org.eclipse.ui.views.log",1335868226063
+started,bundle,org.eclipse.pde.ui,3.6.1.v20110210_r362,"org.eclipse.pde.ui",1335868226076
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1335868226419
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868249029
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868405388
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1335868407968
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868412292
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.200.v201004150600,"org.eclipse.wst.jsdt.manipulation",1335868414265
+started,bundle,org.eclipse.wst.jsdt.ui,1.1.7.v201109150205,"org.eclipse.wst.jsdt.ui",1335868414431
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868414625
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868414627
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868414628
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868414630
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868414632
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868414634
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868414637
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868414638
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868414641
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1335868414985
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868415101
+executed,command,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1335868415113
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1335868415113
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868424875
+error,log,,,"Internal Error",1335868461721
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868470866
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1335868470902
+no handler,command,org.eclipse.datatools.sqltools.result.ui,,"org.eclipse.datatools.sqltools.result.removeAllInstances",1335868474417
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868479234
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868480573
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868480576
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868480579
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868480582
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868480585
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868480589
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868480595
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868480598
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868480601
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868480818
+executed,command,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1335868480824
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1335868480824
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868483360
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868498487
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868503476
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868531212
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868531215
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868531217
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868531227
+error,log,,,"Internal Error",1335868532268
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335868532403
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335868532691
+error,log,,,"Failed to finish PrecompilerBuilder#startupOnInitialize()",1335868532734
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335868532753
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335868533042
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335868535747
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335868535750
+error,log,,,"Internal Error",1335868578145
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868582297
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1335868582323
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868583732
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868591475
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.refresh",1335868594259
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868594531
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868596311
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868596392
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868597056
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868597079
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868597083
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868597085
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868597088
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868597091
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868597095
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868597097
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868597100
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868597102
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868602004
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868624617
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868624620
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868624626
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.preferences"".",1335868624638
+error,log,,,"Failed to load properties file for project 'CurioCity-Android'",1335868625486
+started,bundle,com.android.ide.eclipse.ddms,18.0.0.v201203301601-306762,"com.android.ide.eclipse.ddms",1335868625760
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868625823
+started,bundle,com.android.ide.eclipse.traceview,18.0.0.v201203301601-306762,"com.android.ide.eclipse.traceview",1335868626092
+opened,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1335868627355
+opened,view,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.views.ProblemView",1335868627591
+started,bundle,org.eclipse.search,3.6.0.v20100520-0800,"org.eclipse.search",1335868629367
+opened,view,org.eclipse.mylyn.tasks.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.tasks.ui.views.tasks",1335868630304
+activated,perspective,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.JavaPerspective",1335868630383
+activated,view,org.eclipse.ui.views,3.5.1.M20110202-0800,"org.eclipse.ui.views.ContentOutline",1335868630893
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1335868631164
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1335868637846
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1335868644788
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1335868644994
+started,bundle,org.eclipse.wst.server.ui,1.1.209.v20111005_1716,"org.eclipse.wst.server.ui",1335868646945
+activated,view,org.eclipse.mylyn.tasks.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.tasks.ui.views.tasks",1335868651662
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1335868651738
+activated,view,org.eclipse.ui.views,3.5.1.M20110202-0800,"org.eclipse.ui.views.ContentOutline",1335868654183
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1335868654231
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1335868657136
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868658766
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1335868672092
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.properties",1335868672105
